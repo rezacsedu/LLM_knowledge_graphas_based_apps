@@ -1,2 +1,2 @@
-# LLM_KGs_
-Topy projects around using LLM, KGs, LangChain.
+# LLMs for building KGs, NLP application development, and QA systems 
+Toy projects for using LLMs and LangChain for building KGs, NLP application development, and QA systems.
